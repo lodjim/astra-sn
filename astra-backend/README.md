@@ -45,6 +45,8 @@ Once running, visit:
 
 The service uses an XGBoost model (`xgb_weighted_model.joblib`) for predictions. Ensure the model file is present in the root directory.
 
+**Download the model**: [XGBoost Model on Google Drive](https://drive.google.com/file/d/15p3PAmKmgI8Yj6_9X4V-1sHSS9v6fiLF/view?usp=sharing)
+
 ## Required Features
 
 The model expects the following features:
