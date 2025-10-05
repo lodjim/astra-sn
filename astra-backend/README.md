@@ -47,6 +47,8 @@ The service uses an XGBoost model (`xgb_weighted_model.joblib`) for predictions.
 
 **Download the model**: [XGBoost Model on Google Drive](https://drive.google.com/file/d/15p3PAmKmgI8Yj6_9X4V-1sHSS9v6fiLF/view?usp=sharing)
 
+**Training code**: [Google Colab Notebook](https://colab.research.google.com/drive/1Jri0moK113nZnHp4uw8yJEi_0rUOP39j#scrollTo=P6ITC8IzGQLK)
+
 ## Required Features
 
 The model expects the following features:

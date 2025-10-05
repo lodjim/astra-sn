@@ -820,10 +820,6 @@
     display: inline-flex;
   }
 
-  .table {
-    display: table;
-  }
-
   .field-sizing-content {
     field-sizing: content;
   }
@@ -1784,6 +1780,10 @@
     -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
+  }
+
+  .running {
+    animation-play-state: running;
   }
 
   @media (hover: hover) {
